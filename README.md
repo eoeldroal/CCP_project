@@ -34,8 +34,6 @@
     │   ├── 3.mp4
     │   ├── 4.mp4
     │   └── 5.mp4
-    └── incline bench press/
-        └── DB_press_1.mp4
     ```
 
 3. `main.py` 파일 실행:
